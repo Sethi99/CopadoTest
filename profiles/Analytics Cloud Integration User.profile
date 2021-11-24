@@ -132,11 +132,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.CustomerPriority__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Account.DandbCompanyId</field>
         <readable>true</readable>
@@ -1979,11 +1974,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Lead.Phone</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Lead.Primary__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
